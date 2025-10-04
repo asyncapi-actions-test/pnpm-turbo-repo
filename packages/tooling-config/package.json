@@ -1,4 +1,8 @@
 {
   "name": "tooling-config",
-  "description": "A package used by every other package."
+  "description": "A package used by every other package.",
+  "dependencies": {
+    "@action-test-ash17290/typescript-config": "^0.0.1",
+    "source-repo": "^1.1.0"
+  }
 }
