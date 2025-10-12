@@ -15,8 +15,8 @@ importers:
   apps/app-a:
     dependencies:
       '@action-test-ash17290/ui':
-        specifier: ^1.0.0
-        version: 1.0.0
+        specifier: ^1.1.0
+        version: 1.1.0
       '@action-test-ash17290/web':
         specifier: ^1.0.0
         version: 1.0.0
@@ -63,8 +63,8 @@ packages:
     resolution: {integrity: sha512-ZK6dnvys1C2U9CBLkskF8kTnAY5qCvuKt9Ji29pd4TaI+gLRU0hhSPSPbyaagbxxIXZfyDrJsqKcjhPZhscJqg==}
     dev: false
 
-  /@action-test-ash17290/ui@1.0.0:
-    resolution: {integrity: sha512-0vcY6zYCWEpLF36jB40nIV/+bkPPabtBU4Uit4NptL8NRb8ZrmPOV/C6SNk/SKyDk+ffV/ObxtTdlW0YDtJVYA==}
+  /@action-test-ash17290/ui@1.1.0:
+    resolution: {integrity: sha512-wHkBdpQXd7PSWiJTdEVNuomLt3YV4rdaw9PBqGjwCtTz5t+sdCHsq1XXetE06NtVFam7NEOR9Cg42U2ItUFIBg==}
     dependencies:
       react: 19.2.0
       react-dom: 19.2.0(react@19.2.0)
@@ -73,7 +73,7 @@ packages:
   /@action-test-ash17290/web@1.0.0:
     resolution: {integrity: sha512-NPEmVMfanfFhhWYpE0BCAH/J/GvvSvkM5brT93xGKiMEOsXeYpZdxU/N3CKfOGX+Ci0UwtXA4L5HoIpv7dATmg==}
     dependencies:
-      '@action-test-ash17290/ui': 1.0.0
+      '@action-test-ash17290/ui': 1.1.0
       next: 15.5.4(react-dom@19.2.0)(react@19.2.0)
       react: 19.2.0
       react-dom: 19.2.0(react@19.2.0)
