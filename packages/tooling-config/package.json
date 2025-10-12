@@ -2,7 +2,7 @@
   "name": "tooling-config",
   "description": "A package used by every other package.",
   "dependencies": {
-    "@action-test-ash17290/typescript-config": "^1.0.0",
+    "@action-test-ash17290/typescript-config": "^1.1.0",
     "source-repo": "^1.2.3"
   }
 }
