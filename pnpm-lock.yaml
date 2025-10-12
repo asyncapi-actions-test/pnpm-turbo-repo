@@ -18,8 +18,8 @@ importers:
         specifier: ^1.1.0
         version: 1.1.0
       '@action-test-ash17290/web':
-        specifier: ^1.0.0
-        version: 1.0.0
+        specifier: ^1.1.0
+        version: 1.1.0
       pkg-a:
         specifier: workspace:*
         version: link:../../packages/pkg-a
@@ -70,8 +70,8 @@ packages:
       react-dom: 19.2.0(react@19.2.0)
     dev: false
 
-  /@action-test-ash17290/web@1.0.0:
-    resolution: {integrity: sha512-NPEmVMfanfFhhWYpE0BCAH/J/GvvSvkM5brT93xGKiMEOsXeYpZdxU/N3CKfOGX+Ci0UwtXA4L5HoIpv7dATmg==}
+  /@action-test-ash17290/web@1.1.0:
+    resolution: {integrity: sha512-I2O2bD2iBr3w1yDbOjp41KE2tTDv2z6PKRg8tNzBwOsXN0sp5pWOSnVH1qrXVwREgRgc1YPWypNSZo9A7FAYGQ==}
     dependencies:
       '@action-test-ash17290/ui': 1.1.0
       next: 15.5.4(react-dom@19.2.0)(react@19.2.0)
