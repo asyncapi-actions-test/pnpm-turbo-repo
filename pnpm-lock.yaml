@@ -24,8 +24,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/pkg-a
       source-repo:
-        specifier: ^1.1.0
-        version: 1.1.0
+        specifier: ^1.2.3
+        version: 1.2.3
       tooling-config:
         specifier: workspace:*
         version: link:../../packages/tooling-config
@@ -54,8 +54,8 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0
       source-repo:
-        specifier: ^1.1.0
-        version: 1.1.0
+        specifier: ^1.2.3
+        version: 1.2.3
 
 packages:
 
@@ -533,8 +533,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /source-repo@1.1.0:
-    resolution: {integrity: sha512-CW3/oiP+XT1jETDcjx93FtjHYC0h1otUOajJoATQ0qu5W/IlDG2BYO+aYQHqne+9lPE9nmPW+wIdH74tA5b96Q==}
+  /source-repo@1.2.3:
+    resolution: {integrity: sha512-4sgZJ2QW7/xBGeggNbGpBMQuXp3mI5HEkt2q/+ls9y96otT05KgIXjg67wohgUOCoWKrvAZVHUod5Fi18AWMFA==}
     dev: false
 
   /styled-jsx@5.1.6(react@19.2.0):

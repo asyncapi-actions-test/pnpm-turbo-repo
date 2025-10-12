@@ -10,7 +10,7 @@
     "@action-test-ash17290/ui": "^1.0.0",
     "@action-test-ash17290/web": "^1.0.0",
     "pkg-a": "workspace:*",
-    "source-repo": "^1.1.0",
+    "source-repo": "^1.2.3",
     "tooling-config": "workspace:*"
   }
 }
