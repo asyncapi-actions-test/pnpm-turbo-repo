@@ -51,16 +51,16 @@ importers:
   packages/tooling-config:
     dependencies:
       '@action-test-ash17290/typescript-config':
-        specifier: ^0.0.1
-        version: 0.0.1
+        specifier: ^1.0.0
+        version: 1.0.0
       source-repo:
         specifier: ^1.1.0
         version: 1.1.0
 
 packages:
 
-  /@action-test-ash17290/typescript-config@0.0.1:
-    resolution: {integrity: sha512-aG2tudNZ764y8h1TWWREhiPnri66NwtTXPa/sOfIhS2AslBzIiYdK+FDAaTOcYvRxRXYNEMxU6k4q3CjtpJyzA==}
+  /@action-test-ash17290/typescript-config@1.0.0:
+    resolution: {integrity: sha512-ZK6dnvys1C2U9CBLkskF8kTnAY5qCvuKt9Ji29pd4TaI+gLRU0hhSPSPbyaagbxxIXZfyDrJsqKcjhPZhscJqg==}
     dev: false
 
   /@action-test-ash17290/ui@0.0.2:
